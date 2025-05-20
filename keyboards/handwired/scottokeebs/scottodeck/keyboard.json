@@ -7,7 +7,7 @@
     "encoder": {
         "rotary": [
             {"pin_a": "GP2", "pin_b": "GP3"},
-            {"pin_a": "GP27", "pin_b": "GP28"}
+            {"pin_a": "GP15", "pin_b": "GP16"}
         ]
     },
     "features": {
@@ -23,7 +23,7 @@
         "direct": [
             ["GP9", null, null, "GP21"],
             ["GP7", "GP8", "GP20", "GP23"],
-            ["GP5", "GP6", "GP26", "GP22"]
+            ["GP5", "GP6", "GP14", "GP22"]
         ]
     },
     "processor": "RP2040",
